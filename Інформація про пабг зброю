@@ -1,0 +1,68 @@
+<html>
+
+<title>Інформація про пабг зброю</title>
+
+<body>
+    <header><img src= "https://itc.ua/wp-content/uploads/2018/04/PUBG-MOBILE-0.4.0.jpg"width="900px" height="500px"> <h1> PUBG WEAPON</h1>
+    </header> 
+
+    <main>
+        <h2 id="start">
+        UMP 45<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbpC987l80bt_9OO-k9obllyogM_Ufsk4NQ&usqp=CAU"width="300px" height="200px">UMP45 (скор. Universal Machine Pistol)</h2> <p>- пістолет-кулемет, розроблений компанією Heckler & Koch. UMP45
+
+Icon weapon UMP
+Пістолет-кулемет у грі
+
+є наступником MP5, хоча обидва вони перебувають на озброєнні досі. Широко прийнята поліцією та урядовими установами, з широким впровадженням, зокрема, серед американських митних та прикордонних служб, вона також користується популярністю у гравців як добре округлена, збалансована ПП з керованою віддачею та пристойною вогневою міццю.</p>
+        <h2>М416<img src= "https://papik.pro/uploads/posts/2023-02/thumbs/1676005206_papik-pro-p-m416-risunok-shut-19.jpg"width="300px" height="200px">Штурмова гвинтівка, М416</h2> <p>особливо оцінять любителі відео гри PUBG. Головні особливості цієї іграшкової зброї для дітей - це електрична стрільба гідрогелевими кулями, повністю розбірний, якісний пластик, приклад, оптичний приціл, що регулюється.</p>
+        <h2>AWM </h2><p>мають<img src= "data:image/png;base64,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"width="300px" height="200px">Двоскладові панелі прикладу з отвором для великого пальця, зроблені з армованого нейлону (AW – зелені, AWP – чорні), з'єднуються за допомогою шайб. </p>
+        <h2><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUZRpXMJdg-vg4l9X-x_mTHp8ps31LKi8rJ5Rddsufn1-DAhRN8AT-xWkAwWYzpLn60s&usqp=CAU"width="300px" height="200px">Автома́т Кала́шникова</h2><p>, абр. АК  — автоматичний карабін, найпоширеніша[джерело?] у світі стрілецька зброя. Може стріляти як чергами, так і окремими пострілами. Відрізняється невеликою точністю та купчастістю, але невимогливістю до умов експлуатації, рівня кваліфікації стрільця, досить високою надійністю та простотою в обслуговуванні. Був прийнятий на озброєння Радянської Армії у 1949 році.</p>
+       <table>
+            <tr style="border:1px solid white;background-color:Olive;">
+
+            <td style="color:white">урон в </td>
+            <td style="color:white">Голову</td>
+            <td style="color:white">Тіло</td>
+            
+        </tr>
+        <tr style="border:1px solid white">
+           <td style="background-color:Olive;color:white">UMP 45</td>
+           <td style="background-color:burlywood">73.5</td>
+           <td>42.8</td>
+           
+           
+        </tr> 
+        <tr style="border:1px solid white">
+            <td style="background-color:Olive;color:white">M416 </td>
+            <td style="background-color:burlywood">94</td>
+            <td>40</td>
+            
+            
+        </tr>
+        <tr style="border:1px solid white">
+            <td style="background-color:Olive;color:white">AWP</td>
+            <td style="background-color:burlywood">300</td>
+            <td >155</td>
+            
+            
+        </tr>
+        <tr style="border:1px solid white">
+            <td style="background-color:Olive;color:white">AK 47</td>
+            <td style="background-color:burlywood">110</td>
+            <td>48</td>
+            </tr>
+              </table>
+
+        
+
+        </main>
+
+        <footer> номер для того щоб щось сказати +380 59 756 723 4592
+           
+            <a href="#start">Посилання на UMP 45</a>
+            
+        </footer>
+</body>
+        
+
+ </html>
